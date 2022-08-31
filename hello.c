@@ -12,6 +12,8 @@ int main(int argc, char **argv) {
 
   printf("Joshua Wichman!\n");
   printf("Undeclared\n");
+  printf("Jaden Miller\n");
+  printf("Mechanical Engineer\n");
 
   return 0;
 }
